@@ -1,0 +1,17 @@
+body{
+    margin: auto auto;
+}
+h2{
+    text-align: center;
+}
+.container{
+    width: 50%;
+    margin:auto auto;
+}
+input{
+    align-items: center;
+    display: block;
+    width:100%;
+    padding: 0.2rem;
+    margin-bottom: 1rem;
+}
